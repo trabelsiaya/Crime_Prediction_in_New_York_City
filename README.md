@@ -105,4 +105,4 @@ The application is built with **Streamlit** to provide an intuitive user interfa
 ### Installation Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/crime-prediction-nyc.git
+   git clone https://github.com/trabelsiaya/Crime_Prediction_in_New_York_City.git
