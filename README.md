@@ -106,3 +106,6 @@ The application is built with **Streamlit** to provide an intuitive user interfa
 1. Clone the repository:
    ```bash
    git clone https://github.com/trabelsiaya/Crime_Prediction_in_New_York_City.git
+### Paper
+To document our work, we wrote a research [paper](paper.pdf) that is included in the repo.
+
